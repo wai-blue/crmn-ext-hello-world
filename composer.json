@@ -1,0 +1,12 @@
+{
+    "name": "wai-blue/crmn-ext-hello-world",
+    "description": "Hello World extension for Ceremony CRM",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CeremonyCrmApp\\Extensions\\WaiBlue\\HelloWorld\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
